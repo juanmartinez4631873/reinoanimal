@@ -1,7 +1,16 @@
 package es.cifpcarlosiii.ed1damdist.tarea4;
 
+/**
+ * Clase principal que contiene el punto de entrada del programa.
+ * Se encarga de instanciar los diferentes animales y demostrar el polimorfismo.
+ * @author Juan Martinez
+ */
 public class Principal {
 
+    /**
+     * Método principal que indica la ejecución de la aplicación del Reino Animal.
+     * @param args Argumentos de la línea de comandos (no utilizados)
+     */
     public static void main(String[] args) {
 
 /*
